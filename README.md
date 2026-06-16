@@ -620,7 +620,7 @@ If you use Her Guardian in your research or projects, please cite:
 
 ### Getting Help
 
-- 📧 **Email:** [Your email]
+- 📧 **Email:** mohammedfaizalh20@gmail.com
 - 🐙 **GitHub Issues:** [Report bugs or request features](https://github.com/faizal614/Women-Safety-System---Her-Guardian/issues)
 - 💬 **Discussions:** [Join community discussions](https://github.com/faizal614/Women-Safety-System---Her-Guardian/discussions)
 
